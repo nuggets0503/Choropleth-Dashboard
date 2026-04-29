@@ -7,7 +7,7 @@ The **Global Children Illiteracy Dashboard** is an interactive web application b
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Website
 Access the deployed application here: **[Global Children Illiteracy Dashboard](https://choropleth-dashboard-jcqbnpf6cvytdvh5gbvuwk.streamlit.app/)**
 
 ---
