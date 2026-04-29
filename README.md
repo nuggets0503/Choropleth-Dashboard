@@ -5,9 +5,6 @@
 ## 📌 Executive Summary
 The **Global Children Illiteracy Dashboard** is an interactive web application built with Streamlit and Folium. It provides a geospatial analysis of estimated childhood illiteracy rates (in millions) across the globe. By allowing users to filter data by year, the dashboard highlights critical educational metrics and trends over time, serving as an exploratory tool for understanding global learning deficits.
 
-**Author:** Paolo G. Hilado, MSc.
-*Notice: This project is deployed for training and demonstration purposes.*
-
 ---
 
 ## 🚀 Live Demo
