@@ -21,6 +21,11 @@ Access the deployed application here: **[Global Children Illiteracy Dashboard](h
 
 ---
 
+## 💡 Recommendation
+Concentrate literacy funding and intervention programs on the persistent high-density clusters this map surfaces, rather than spread resources evenly. Target the small number of countries that carry the largest share of illiterate children delivers the greatest reduction in the global total per dollar spent.
+
+---
+
 ## 🛠️ Tech Stack
 This project relies on the following Python libraries:
 * **[Streamlit](https://streamlit.io/):** For the front-end web framework and UI components.
