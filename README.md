@@ -1,4 +1,5 @@
 # 🙍🏻‍♂️📖🙍🏻‍♀️ Global Children Illiteracy Dashboard
+_An interactive geospatial dashboard that visualizes childhood illiteracy across the globe and reveal where learning deficits are most concentrated and how they shift over time._
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://choropleth-dashboard-jcqbnpf6cvytdvh5gbvuwk.streamlit.app/)
 
