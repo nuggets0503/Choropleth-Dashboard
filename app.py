@@ -21,13 +21,6 @@ st.markdown(
     unsafe_allow_html=True
     )
 
-st.markdown(
-    f"<p style='font-size:26px; color:##EDE5E1'>"
-    f"Paolo G. Hilado MSc. | Notice: This is only for Training Purposes."
-    f"</p>",
-    unsafe_allow_html=True
-    )
-
 year = st.slider("Select Year", int(df.year.min()), int(df.year.max()), 2010)
 filtered_df = df[df["year"] == year]
 
